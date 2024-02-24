@@ -4,7 +4,8 @@
   "description": "A suite of flexible and efficient tools for running tabletop RPGs",
   "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
   },
   "keywords": [],
   "author": "SpekkioKilwala <jonmwalsh@gmail.com>",
