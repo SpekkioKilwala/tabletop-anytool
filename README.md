@@ -3,6 +3,14 @@ A suite of flexible and efficient tools for running tabletop RPGs
 
 Licence: MIT Licence
 
+======
+This project is shelved for now, issues with feature creep (e.g. the process flow of rolling a random encounter and adding creatures
+to an initiative tracker) (also the problem of wanting a webapp that can interface with existing notes) seem to introduce some
+deeply-buried design issues that call into question the appropriate fundamental platform for all this.
+It might need to be a standalone (node.js) project, it might be better as a collection of more independent compatible tools,
+it might be better as a set of ObsidianMD modules.
+======
+
 Project aim: a lightweight webapp that should be a DM's or player's main tool for running or playing games.
 It is a customisable toolbox of various useful widgets.
 (It's really a learning project)
